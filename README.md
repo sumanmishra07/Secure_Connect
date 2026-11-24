@@ -128,56 +128,52 @@ Secure Connect uses Socket.IO for authenticated real-time private messaging. Use
 - Users can access only their own notes.
 - Sensitive environment variables are excluded from Git.
 
-## Author
-
-Developed as a Web Development III lab project.
-
 ## API Testing Screenshots
 
 ### 1. Signup API
 ![Signup API](screenshots/Signup%20API.png)
 
 ### 2. Login API
-![Login API](screenshots/2.%20Login%20API.png)
+![Login API](screenshots/Login%20API.png)
 
 ### 3. Protected Profile API
-![Protected Profile API](screenshots/3.%20Protected%20Profile%20API.png)
+![Protected Profile API](screenshots/Protected%20Profile%20API.png)
 
 ### 4. Admin Route API
-![Admin Route API](screenshots/4.%20Admin%20Route%20API.png)
+![Admin Route API](screenshots/Admin%20Route%20API.png)
 
 ### 5. User Route API
-![User Route API](screenshots/5.%20User%20Route%20API.png)
+![User Route API](screenshots/User%20Route%20API.png)
 
 ### 6. Create Note API
-![Create Note API](screenshots/6.%20Create%20Note%20API.png)
+![Create Note API](screenshots/Create%20Note%20API.png)
 
 ### 7. Get All Notes API
-![Get All Notes API](screenshots/7.%20Get%20All%20Notes%20API.png)
+![Get All Notes API](screenshots/Get%20All%20Notes%20API.png)
 
 ### 8. Get Specific Note API
-![Get Specific Note API](screenshots/8.%20Get%20Specific%20Note%20API.png)
+![Get Specific Note API](screenshots/Get%20Specific%20Note%20API.png)
 
 ### 9. Update Note API
-![Update Note API](screenshots/9.%20Update%20Note%20API.png)
+![Update Note API](screenshots/Update%20Note%20API.png)
 
 ### 10. Delete Note API
-![Delete Note API](screenshots/10.%20Delete%20Note%20API.png)
+![Delete Note API](screenshots/Delete%20Note%20API.png)
 
 ### 11. Get Chat Users API
-![Get Chat Users API](screenshots/11.%20Get%20Chat%20Users%20API.png)
+![Get Chat Users API](screenshots/Get%20Chat%20Users%20API.png)
 
 ### 12. Get Conversation API
-![Get Conversation API](screenshots/12.%20Get%20Conversation%20API.png)
+![Get Conversation API](screenshots/Get%20Conversation%20API.png)
 
 ### 13. Real-Time Chat using Socket.IO
-![Real-Time Chat](screenshots/13.%20Real-Time%20Chat%20using%20Socket.IO.png)
+![Real-Time Chat](screenshots/Real-Time%20Chat%20%E2%80%93%20Socket.IO.png)
 
 ### 14. Node.js EventEmitter
-![Node.js EventEmitter](screenshots/14.%20Node.js%20EventEmitter.png)
+![Node.js EventEmitter](screenshots/Node.js%20EventEmitter.png)
 
 ### 15. MongoDB Database
-![MongoDB Database](screenshots/15.%20MongoDB%20Database.png)
+![MongoDB Database](screenshots/MongoDB%20Database.png)
 
 ## Author
 **Suman Mishra**
