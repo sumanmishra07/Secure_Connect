@@ -131,35 +131,59 @@ Secure Connect uses Socket.IO for authenticated real-time private messaging. Use
 ## Author
 
 Developed as a Web Development III lab project.
-## Screenshots
 
-![Signup API](screenshots/Signup API.png)
+## API Testing Screenshots
 
-![2. Login API](screenshots/2. Login API.png)
+### 1. Signup API
+![Signup API](screenshots/Signup%20API.png)
 
-![3. Protected Profile API](screenshots/3. Protected Profile API.png)
+### 2. Login API
+![Login API](screenshots/2.%20Login%20API.png)
 
-![4. Admin Route API](screenshots/4. Admin Route API.png)
+### 3. Protected Profile API
+![Protected Profile API](screenshots/3.%20Protected%20Profile%20API.png)
 
-![5. User Route API](screenshots/5. User Route API.png)
+### 4. Admin Route API
+![Admin Route API](screenshots/4.%20Admin%20Route%20API.png)
 
-![6. Create Note API](screenshots/6. Create Note API.png)
+### 5. User Route API
+![User Route API](screenshots/5.%20User%20Route%20API.png)
 
-![7. Get All Notes API](screenshots/7. Get All Notes API.png)
+### 6. Create Note API
+![Create Note API](screenshots/6.%20Create%20Note%20API.png)
 
-![8. Get Specific Note API](screenshots/8. Get Specific Note API.png)
+### 7. Get All Notes API
+![Get All Notes API](screenshots/7.%20Get%20All%20Notes%20API.png)
 
-![9. Update Note API](screenshots/9. Update Note API.png)
+### 8. Get Specific Note API
+![Get Specific Note API](screenshots/8.%20Get%20Specific%20Note%20API.png)
 
-![10. Delete Note API](screenshots/10. Delete Note API.png)
+### 9. Update Note API
+![Update Note API](screenshots/9.%20Update%20Note%20API.png)
 
-![11. Get Chat Users API](screenshots/11. Get Chat Users API.png)
+### 10. Delete Note API
+![Delete Note API](screenshots/10.%20Delete%20Note%20API.png)
 
-![12. Get Conversation API](screenshots/12. Get Conversation API.png)
+### 11. Get Chat Users API
+![Get Chat Users API](screenshots/11.%20Get%20Chat%20Users%20API.png)
 
-![13. Real-Time Chat using Socket.IO](screenshots/13. Real-Time Chat using Socket.IO.png)
+### 12. Get Conversation API
+![Get Conversation API](screenshots/12.%20Get%20Conversation%20API.png)
 
-![14. Node.js EventEmitter](screenshots/14. Node.js EventEmitter.png)
+### 13. Real-Time Chat using Socket.IO
+![Real-Time Chat](screenshots/13.%20Real-Time%20Chat%20using%20Socket.IO.png)
 
-![15. MongoDB Database](screenshots/15. MongoDB Database.png)
+### 14. Node.js EventEmitter
+![Node.js EventEmitter](screenshots/14.%20Node.js%20EventEmitter.png)
+
+### 15. MongoDB Database
+![MongoDB Database](screenshots/15.%20MongoDB%20Database.png)
+
+## Author
+**Suman Mishra**
+
+B.Tech – Computer Science and Engineering
+
+K.R. Mangalam University
+
 
